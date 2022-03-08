@@ -1,0 +1,52 @@
+body {
+  padding-top: 30px;
+}
+.header {
+  width: 50%;
+  height: 20px;
+  border-bottom: 1px solid gray;
+  text-align: center;
+  margin: auto;
+}
+.welcome {
+  font-size: 40px;
+  background-color: white;
+  padding: 0 5px;
+  font-weight: 200;
+}
+.text {
+  font-size: 35px;
+  color: red;
+}
+.middle {
+  margin: 50px 300px;
+  width: 50%;
+  text-align: center;
+}
+.box {
+  height: 350px;
+  width: 350px;
+  border: 1px solid red;
+  box-shadow: 3px 3px 10px gray;
+  border-radius: 10px;
+  text-align: center;
+  color: red;
+  margin: auto;
+}
+.space {
+  margin-left: 50px;
+}
+p {
+  padding-left: 40px;
+  text-decoration: line-through;
+  font-size: 23px;
+}
+.checkBox {
+  font-size: 20px;
+  color: black;
+}
+.trip {
+  margin: 130px 20px 0 0;
+
+  float: right;
+}
